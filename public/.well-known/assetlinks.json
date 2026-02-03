@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "tr.com.menuvia.app",
+      "sha256_cert_fingerprints": [
+        "2E:EF:ED:42:5C:15:EF:DE:A8:78:39:63:57:A7:88:C4:A5:94:F9:56:0E:86:26:A4:DD:6C:95:14:D4:DE:B4:E6"
+      ]
+    }
+  }
+]
